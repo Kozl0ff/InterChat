@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918873236000",
+    "firebase_url": "https://cloudchat-8c48e.firebaseio.com",
+    "project_id": "cloudchat-8c48e",
+    "storage_bucket": "cloudchat-8c48e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918873236000:android:2c63e8ef6cf049f9b21245",
+        "android_client_info": {
+          "package_name": "com.example.intercase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918873236000-n7kr8sch79qho85041lgsdc3qo08tpt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFcbZQ24iw0s8ba9xbl3qtNb8rdnkmOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918873236000-n7kr8sch79qho85041lgsdc3qo08tpt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
